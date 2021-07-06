@@ -77,3 +77,6 @@ npx create-react-app .
 
 ### `recurso`
 https://www.youtube.com/watch?v=EMk6nom1aS4
+
+Este ejemplo es utilizando react con javascript
+
